@@ -1,0 +1,8 @@
+flask
+flask_limiter
+pyjwt
+bcrypt
+pyimgur
+nudenet
+random-username
+flask-cors
